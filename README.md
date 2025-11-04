@@ -1,6 +1,4 @@
 
-# 💫 About Me:
-I am a front-end developer and currently working on commercial projects.
 
 
 ## 🌐 Socials:
